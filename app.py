@@ -15,7 +15,7 @@ from visualize import (plot_co_over_time, plot_temperature_vs_humidity,
 
 # Configure the page
 st.set_page_config(
-    page_title="Air Quality Dashboard",
+    page_title="Air Quality Dashboard2",
     layout="wide"
 )
 
